@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/d4bcc875-346a-4c5c-af88-2cb5bd51c4a1
+
+
 # gdnav — GPS-denied navigation for drones
 
 **gdnav keeps a drone flying its mission when GPS is jammed.** It works out where the drone is from its own
